@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personel_Kayıt_Uygulaması(veritabanlı)", "Personel_Kayıt_Uygulaması(veritabanlı)\Personel_Kayıt_Uygulaması(veritabanlı).csproj", "{04028EB2-982A-486C-8D34-99AC5A9A997B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Personel Kayıt Otomasyonu", "Personel Kayıt Otomasyonu\Personel Kayıt Otomasyonu.vdproj", "{CA6ED504-3F95-49A6-9B79-4E3F0F48D228}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04028EB2-982A-486C-8D34-99AC5A9A997B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04028EB2-982A-486C-8D34-99AC5A9A997B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04028EB2-982A-486C-8D34-99AC5A9A997B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04028EB2-982A-486C-8D34-99AC5A9A997B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA6ED504-3F95-49A6-9B79-4E3F0F48D228}.Debug|Any CPU.ActiveCfg = Debug
+		{CA6ED504-3F95-49A6-9B79-4E3F0F48D228}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E02E9BD-02FB-48F0-A5A9-90295DBA95E8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\Emir Akyoll\Desktop\Personel_Kayıt_Uygulaması(veritabanlı)\Personel_Kayıt_Uygulaması(veritabanlı)\bin\Debug\Personel_Kayıt_Uygulaması(veritabanlı).exe.config
+C:\Users\Emir Akyoll\Desktop\Personel_Kayıt_Uygulaması(veritabanlı)\Personel_Kayıt_Uygulaması(veritabanlı)\bin\Debug\Personel_Kayıt_Uygulaması(veritabanlı).exe
+C:\Users\Emir Akyoll\Desktop\Personel_Kayıt_Uygulaması(veritabanlı)\Personel_Kayıt_Uygulaması(veritabanlı)\bin\Debug\Personel_Kayıt_Uygulaması(veritabanlı).pdb
+C:\Users\Emir Akyoll\Desktop\Personel_Kayıt_Uygulaması(veritabanlı)\Personel_Kayıt_Uygulaması(veritabanlı)\obj\Debug\Personel_Kayıt_Uygulaması_veritabanlı_.Form1.resources
+C:\Users\Emir Akyoll\Desktop\Personel_Kayıt_Uygulaması(veritabanlı)\Personel_Kayıt_Uygulaması(veritabanlı)\obj\Debug\Personel_Kayıt_Uygulaması_veritabanlı_.Properties.Resources.resources
+C:\Users\Emir Akyoll\Desktop\Personel_Kayıt_Uygulaması(veritabanlı)\Personel_Kayıt_Uygulaması(veritabanlı)\obj\Debug\Personel_Kayıt_Uygulaması(veritabanlı).csproj.GenerateResource.cache
+C:\Users\Emir Akyoll\Desktop\Personel_Kayıt_Uygulaması(veritabanlı)\Personel_Kayıt_Uygulaması(veritabanlı)\obj\Debug\Personel_Kayıt_Uygulaması(veritabanlı).csproj.CoreCompileInputs.cache
+C:\Users\Emir Akyoll\Desktop\Personel_Kayıt_Uygulaması(veritabanlı)\Personel_Kayıt_Uygulaması(veritabanlı)\obj\Debug\Personel_Kayıt_Uygulaması(veritabanlı).exe
+C:\Users\Emir Akyoll\Desktop\Personel_Kayıt_Uygulaması(veritabanlı)\Personel_Kayıt_Uygulaması(veritabanlı)\obj\Debug\Personel_Kayıt_Uygulaması(veritabanlı).pdb
+C:\Users\Emir Akyoll\Desktop\Personel_Kayıt_Uygulaması(veritabanlı)\Personel_Kayıt_Uygulaması(veritabanlı)\obj\Debug\Personel_Kayıt_Uygulaması_veritabanlı_.FormIstatistik.resources
+C:\Users\Emir Akyoll\Desktop\Personel_Kayıt_Uygulaması(veritabanlı)\Personel_Kayıt_Uygulaması(veritabanlı)\obj\Debug\Personel_Kayıt_Uygulaması_veritabanlı_.FormGrafikler.resources
+C:\Users\Emir Akyoll\Desktop\Personel_Kayıt_Uygulaması(veritabanlı)\Personel_Kayıt_Uygulaması(veritabanlı)\obj\Debug\Personel_Kayıt_Uygulaması_veritabanlı_.GirisPaneli.resources
+C:\Users\Emir Akyoll\Desktop\Personel_Kayıt_Uygulaması(veritabanlı)\Personel_Kayıt_Uygulaması(veritabanlı)\obj\Debug\Personel_Kayıt_Uygulaması(veritabanlı).csproj.AssemblyReference.cache
